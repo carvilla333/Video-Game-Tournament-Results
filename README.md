@@ -6,3 +6,6 @@ We took a look at the first three major tournaments for the video game called Gu
 
 For the tournaments CEO and NEC the most dominant character was Leo Whitefang, and the rest of the characters varied on placing without showing a trend.
 ![NEC and CEO Results](https://user-images.githubusercontent.com/79889633/160030412-10acfcbd-0bd6-476a-aec4-bb5b08ead77c.png)
+
+Once we get to the latest event called Pinnacle we see a dropoff in results for Leo Whitefang, and now the most dominant character is Ramlethal Valentine.
+![Pinnacle](https://user-images.githubusercontent.com/79889633/160030575-ebf042be-6efa-4c55-880f-5fd96966bfb4.PNG)
